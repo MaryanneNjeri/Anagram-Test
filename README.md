@@ -2,7 +2,7 @@
 
 1.  Git clone this repo
 2.  Modify the Anagram component to satisfy the following requirements:
-3.  When a user enters a word in the first text input , another word in the second text input and presses the 'check anagram' button, write a function to check if the word is an anagram or not and then display that feedback to the user.
+3.  When a user enters a word in the first text input , another word in the second text input and presses the 'check anagram' button, write a function to check whether the two given strings/words are anagram of each other or not and then display that feedback to the user.
 4.  Add some css styling to the component.
 5.  Change the meta title of the app from 'React App' to 'Anagram Test App'
 6.  When you are done push your code to a public repo on Gitlab/Github and send the link to the repo to jasper@cookly.me
