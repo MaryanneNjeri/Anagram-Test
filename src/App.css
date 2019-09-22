@@ -9,16 +9,34 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: white;
   min-height: 100vh;
-  display: flex;
+  /*display: flex;*/
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+  color: black;
+  font-weight: lighter;
+  font-family: Chilanka;
+}
+.label{
+  font-size: 20px;
+  font-weight: lighter;
+  align-items: center;
+}
+.input{
+  border-radius: 30px;
+  height: 25px;
+  width: 400px;
+  padding: 10px;
+}
+.button{
+  background-color: dodgerblue;
+  padding: 10px;
+  font-family: Chilanka;
   color: white;
 }
-
 .App-link {
   color: #61dafb;
 }
